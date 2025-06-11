@@ -35,3 +35,4 @@ Retrieval-Augmented Generation (RAG) becomes a strong candidate for your OCR-nam
 ---
 
 Because RAG combines the best of both worlds—a reliable lookup against your master list and intelligent, context-aware selection—you end up with a system that can correct noisy OCR outputs into valid Khmer names with far higher accuracy and far less manual effort than pure fuzzy matching or vanilla LLM completion.
+https://drive.google.com/file/d/1okk0glwwcTagIylf_H7JcVXfD8tRS4V8/view?usp=sharing
